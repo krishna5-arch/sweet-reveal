@@ -29,8 +29,8 @@ export default function Screen1({ onNext }) {
                 transition={{ duration: 1, delay: 1 }}
                 className="text-center space-y-4 flex flex-col justify-center"
             >
-                <h1 className="text-4xl md:text-5xl font-bold text-white leading-tight">I have a little secret for you...</h1>
-                <p className="text-2xl md:text-3xl text-purple-200 font-light">And trust me... only YOU deserve this ✨</p>
+                <h1 className="text-4xl md:text-5xl font-bold text-white leading-tight">A special surprise just for you!</h1>
+                <p className="text-2xl md:text-3xl text-purple-200 font-light">This secret is only for the one who helps, understands,and cares.Please open it now!✨</p>
             </motion.div>
 
             {/* Bottom button */}
