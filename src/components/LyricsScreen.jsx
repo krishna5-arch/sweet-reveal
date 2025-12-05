@@ -6,10 +6,10 @@ import { useState, useEffect } from "react"
 
 export default function LyricsScreen() {
     const lyrics = [
-        "Tu haseen tera naam haseen ae",
-        "Tere ishq da jaam haseen ae",
-        "Eh be-matlabi zindagi",
-        "Jado di tere naam haseen ae",
+        "Koi or dooja kyu",
+        "Mujhe na tere siva chahiye",
+        "Har Safar me mujhe ",
+        "Tu hi rehnuma chaiye",
     ]
 
     const [currentLyric, setCurrentLyric] = useState(0)
@@ -149,7 +149,7 @@ export default function LyricsScreen() {
                         animate={{ opacity: 1, y: 0, scale: 1 }}
                         transition={{ delay: 1, duration: 1, ease: "easeInOut" }}
                         className="text-3xl md:text-4xl font-semibold px-4 text-center">
-                        For My Haseen Girl❤️
+                        For My Caring And Understanding Person 
                     </motion.h2>
                 </motion.div>
             )}
