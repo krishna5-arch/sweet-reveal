@@ -7,8 +7,8 @@ const kalam = Kalam({
 });
 
 export const metadata = {
-  title: "Something Special!",
-  description: "A romantic message just for you",
+  title: "A special surprise just for you !",
+  description: "A heartfelt reveal for the most understanding person in my life",
 };
 
 export default function RootLayout({ children }) {
