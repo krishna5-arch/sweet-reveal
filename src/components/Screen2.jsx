@@ -35,7 +35,7 @@ export default function Screen2({ onNext }) {
                     transition={{ duration: 0.8 }}
                     className="text-4xl md:text-5xl font-bold text-white leading-tight"
                 >
-                    Are you really ready to know...? 
+                    Are you ready to see how special you truly are to me ? 
                 </motion.h1>
             </motion.div>
 
